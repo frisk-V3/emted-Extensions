@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "frisk-V3",
+  "name": "emted-Extensions",
   "version": "1.3",
   "permissions": ["scripting", "tabs"],
   "host_permissions": ["<all_urls>"],
